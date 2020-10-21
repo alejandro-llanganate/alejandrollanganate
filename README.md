@@ -21,7 +21,7 @@
 <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png">
 <img width="65" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1280px-LaTeX_logo.svg.png">
 
-- Me encanta el cine, puedes ver un estracto de mi trabajo en <a href="https://vimeo.com/manage/168875470/general" alt="enlace a video reel de Alejandro">vimeo</a>
+- Me encanta el cine, puedes ver un estracto de mi trabajo en <a href="https://vimeo.com/168875470" alt="enlace a video reel de Alejandro">vimeo</a>
 - 💬 Contáctame a través de @alejandrollanganate
 
 📫 Encuéntrame en: 
@@ -36,7 +36,7 @@
   <a href="https://www.instagram.com/alejandro_llanganate/">
     <img align="left" alt="Alejandro Llanganate| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
-  <a href="https://www.instagram.com/alejandro_llanganate/">
+  <a href="https://500px.com/p/alejandrollanganate/about?">
     <img align="left" alt="Alejandro Llanganate| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/500px.svg" />
   </a>
 </span> 
