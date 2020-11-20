@@ -14,7 +14,6 @@
 <img width="30" height="30" src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png">
 <img width="65" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png">
 <img width="30" height="30" src="https://emanueleciriachi.net/wp-content/uploads/2019/01/logo-mongodb-png-mongodb-logo-png-400.png">
-<img width="45" height="30" src="https://www.techort.com/wp-content/uploads/2019/01/applicative-parsers-on-haskell-habr.png">
 <img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img width="30" height="30" src="https://img.icons8.com/color/452/firebase.png">
 <img width="30" height="30" src="https://midu.dev/images/tags/svelte.png">
