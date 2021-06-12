@@ -1,13 +1,13 @@
-## Hola, soy Alejandro 👋
+## Hi everyone, I'm Alejandro 👋
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=alejandrollanganate.alejandrollanganate)
 <br />
 
-*Estudiante de Ingeniería de Software en la [Escuela Politécnica Nacional](https://www.epn.edu.ec)* 🇪🇨
+*Software Engineering student at [Escuela Politécnica Nacional](https://www.epn.edu.ec)* 🇪🇨
 
 
-- 🌱 Actualmente estoy aprendiendo:
+- 🌱 I am currently learning:
 
 <img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 <img width="45" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png">
@@ -20,10 +20,10 @@
 <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png">
 <img width="65" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1280px-LaTeX_logo.svg.png">
 
-- Me encanta el cine, puedes ver un estracto de mi trabajo en <a href="https://vimeo.com/168875470" alt="enlace a video reel de Alejandro">vimeo</a>
-- 💬 Contáctame a través de @alejandrollanganate
+- I love cinematography, you can see an excerpt of my work in <a href="https://vimeo.com/168875470" alt="enlace a video reel de Alejandro">vimeo</a>.
+- 💬 Contact me as @alejandrollanganate
 
-📫 Encuéntrame en: 
+📫 Follow me in: 
 
 <span>
   <a href="https://www.linkedin.com/in/luis-alejandro-llanganate-valencia-353827199/">
