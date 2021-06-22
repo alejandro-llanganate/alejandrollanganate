@@ -4,6 +4,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=alejandrollanganate.alejandrollanganate)
 <br />
 
+![Github Stats AlejandroLlanganate](https://github-readme-stats.vercel.app/api?username=alejandrollanganate&count_private=true&hide=stars,issues&show_icons=true&show_owner=true)
+
+
 *Software Engineering student at [Escuela Politécnica Nacional](https://www.epn.edu.ec)* 🇪🇨
 
 
