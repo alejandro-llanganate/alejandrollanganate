@@ -24,7 +24,7 @@
 
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrollanganate&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alejandrollanganate&layout=compact&theme=tokyonight&langs_count=10)
 
 
 - I love cinematography, you can see an excerpt of my work in <a href="https://vimeo.com/168875470" alt="enlace a video reel de Alejandro">vimeo</a>.
