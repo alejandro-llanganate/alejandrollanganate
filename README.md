@@ -1,15 +1,14 @@
 ## Hi everyone, I'm Alejandro 👋
 
+*Software Engineering student at [Escuela Politécnica Nacional](https://www.epn.edu.ec)* 🇪🇨
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=alejandrollanganate.alejandrollanganate)
 <br />
 
-![Github Stats AlejandroLlanganate](https://github-readme-stats.vercel.app/api?username=alejandrollanganate&count_private=true&hide=stars,issues&show_icons=true&show_owner=true)
+![Github Stats AlejandroLlanganate](https://github-readme-stats.vercel.app/api?username=alejandrollanganate&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight)
 
-
-*Software Engineering student at [Escuela Politécnica Nacional](https://www.epn.edu.ec)* 🇪🇨
-
-
+<!-- 
 - 🌱 I am currently learning:
 
 <img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
@@ -22,6 +21,11 @@
 <img width="30" height="30" src="https://midu.dev/images/tags/svelte.png">
 <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png">
 <img width="65" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1280px-LaTeX_logo.svg.png">
+
+-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrollanganate&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - I love cinematography, you can see an excerpt of my work in <a href="https://vimeo.com/168875470" alt="enlace a video reel de Alejandro">vimeo</a>.
 - 💬 Contact me as @alejandrollanganate
