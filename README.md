@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://static.platzi.com/media/avatars/avatars/AlejandroLlanganate_a6aa2469-470e-4cf7-be01-1a9f2eb10f64.jpeg">  
+<img width="250" alt="Club de Sofware EPN" src="https://user-images.githubusercontent.com/20259832/136831066-b818250e-7772-46f4-87d8-ab93191cd871.png">
 </div>
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -17,6 +17,7 @@
 <br>
 <p align="center">Software Engineering student at <a href="https://www.epn.edu.ec">Escuela Politécnica Nacional</a> 🇪🇨</p>
 <p align="center">President & Cyber Security Team Leader at <a href="https://github.com/Club-de-Software-EPN">Club de Software EPN</a> :purple_heart:</p>
+
 
 
 <br />
