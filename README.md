@@ -1,6 +1,6 @@
 <!-- Club de Software EPN -->
 <div align="center">
-<img width="250" alt="Club de Sofware EPN" src="https://user-images.githubusercontent.com/20259832/136831623-d8d043ac-2dfb-472b-a20d-61e76cd3b877.png">
+<img width="150" alt="Club de Sofware EPN" src="https://user-images.githubusercontent.com/20259832/136831623-d8d043ac-2dfb-472b-a20d-61e76cd3b877.png">
 </div>
 
 <!-- Presentation -->
@@ -77,9 +77,3 @@
 
 I love cinematography, you can see an excerpt of my work in <a href="https://vimeo.com/168875470" alt="enlace a video reel de Alejandro">vimeo</a>.
 
-
-<!-- Footer -->
-<hr>
-<p align="center">
-   ❤
-</p>   
